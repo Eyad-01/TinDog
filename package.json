@@ -22,7 +22,7 @@
     "git": "^0.1.5",
     "md5": "^2.2.1",
     "mongodb": "^3.6.0",
-    "mongoose": "^5.9.27",
+    "mongoose": "^5.13.15",
     "mongoose-encryption": "^2.0.2",
     "mongoose-findorcreate": "^3.0.0",
     "oauth20": "^3.0.0",
